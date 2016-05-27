@@ -58,6 +58,7 @@ Step 4. Edit your files locally
 Step 5. After you are done check your changed files and commit
 ```bash
 git status
+git add .
 git commit -m "Your commit description"
 ```
 Step 6. Push commit to your fork
