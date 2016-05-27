@@ -1,5 +1,5 @@
 # FCC Vienna - Trivia Game
-The sence of this repository is first of all to play around and learn some Javascript technologies.
+The sense of this repository is first of all to play around and learn some Javascript technologies.
 Second of all, in some point it will turn into a simple trivia game :)
 
 Development Setup
@@ -111,4 +111,4 @@ See it live!
 ---------------
 Trivia is hosted on [Heroku](https://heroku.com/) you can see it live [here](https://trivia-demo-app.herokuapp.com/).
 
-Keep in mind that your git pushes don't go automaticaly to this hosting. We have to check it and deploy it.
+Keep in mind that your git pushes don't go automatically to this hosting. We have to check it and deploy it.
